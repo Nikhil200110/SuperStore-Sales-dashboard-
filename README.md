@@ -22,6 +22,8 @@ The goal of this project is to derive actionable insights from superstore sales 
 - **Machine Learning (optional):** Scikit-learn (for predictive modeling)
 
 ---
+### Dashboard
+![Dashboard](https://github.com/user-attachments/assets/0c5d12f1-7828-4355-a179-6df7a1abc25b)
 
 ## **Steps Undertaken**
 ### **1. Data Cleaning and Preparation**
